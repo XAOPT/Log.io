@@ -1,4 +1,4 @@
-Log.io - Real-time log monitoring in your browser
+dirty Log.io version for hosted on master harvesters
 =================================================
 
 Powered by [node.js](http://nodejs.org) + [socket.io](http://socket.io)
@@ -69,7 +69,7 @@ Remove a node
 
 - [jdrake](http://github.com/jdrake)
 
-## License 
+## License
 
 Copyright 2013 Narrative Science &lt;contrib@narrativescience.com&gt;
 
